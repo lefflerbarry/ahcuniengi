@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beezejuev.cduch.de/sitemap.xml
